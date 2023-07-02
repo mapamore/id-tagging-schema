@@ -1,0 +1,13 @@
+{
+    "key": "taxi_vehicle",
+    "type": "combo",
+    "label": "Type",
+    "strings": {
+        "options": {
+            "motorcar": "Automobile",
+            "auto_rickshaw": "Auto Rickshaw (i.e. Tricycle, Tuktuk, etc.) ",
+            "cycle_rickshaw": "Cycle Rickshaw (i.e. Cyclo, Pedicab, Velotaxi, etc.)",
+            "motorcycle": "Motorcycle (i.e. Mototáxi, etc.)"
+        }
+    }
+}
