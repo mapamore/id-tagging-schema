@@ -3,6 +3,7 @@
     "fields": [
         "name",
         "operator",
+        "taxi_vehicle",
         "capacity",
         "address"
     ],
@@ -11,7 +12,6 @@
         "branch_brand",
         "brand",
         "opening_hours",
-        "opening_hours/covid19",
         "wheelchair"
     ],
     "geometry": [
